@@ -19,11 +19,10 @@
              
             </i></li>
             <li class="class"><a href="#" title="trang chủ 1" class="link-menu">Chrismet</a></li>
-            <li class="class"><a href="./index-join.html" title="trang chủ 2" class="link-menu">History</a></li>
-            <li class="class"><a href="./index-team.html" title="trang chủ 3" class="link-menu">New and Event</a></li>
-            <li class="class"><a href="./index-new.html" title="trang chủ 4" class="link-menu">Shop</a></li>
-            <li class="class"><a href="./index.html" title="trang chủ 5" class="link-menu">More</a></li>
-            <li class="class"><i class="fa-solid fa-hands-holding-child" id="icon-menu"></i></li>
+            <li class="class"><a href="./index-his.html" title="trang chủ 2" class="link-menu">History</a></li>
+            <li class="class"><a href="./index-NsE.html" title="trang chủ 3" class="link-menu">New and Event</a></li>
+            <li class="class"><a href="./index-Shop.html" title="trang chủ 4" class="link-menu">Shop</a></li>
+            <li class="class"><a href="./index-more.html" title="trang chủ 5" class="link-menu">More</a></li>
             
         </ul>
     </div>
